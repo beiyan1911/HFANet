@@ -18,11 +18,11 @@ The code has been tested on CPU and GPU environments.
 python train.py -g 1
 ```
 ### test
-test on the test datasets
+test on a standard test set
 ```shell
 python test.py -g 1
 ```
-test on the your datasets
+test on your datasets
 ```shell
 python test_for_your_data.py -g 1
 ```
